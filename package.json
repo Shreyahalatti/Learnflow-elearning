@@ -1,0 +1,12 @@
+{
+  "name": "learnflow",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A full-stack learning platform for students and instructors",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  }
+}
